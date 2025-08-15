@@ -1,5 +1,3 @@
-![Banner Image](https://sora.chatgpt.com/g/gen_01k2p51vw2f9ba4tfpsxjyhj7x)
-
 # 👋 Hi, I’m Neethi Rao
 
 - 👀 I’m interested in ... Web Development, DevOps, and Data-Driven Applications  
